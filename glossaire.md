@@ -50,6 +50,7 @@ Jean-Michel Godbout
 ### Facette
 
 ### Fichier d’autorité
+Iloé Françon
 
 ### Folksonomie
 Ophélie Clermont
@@ -100,6 +101,7 @@ Isabelle Algrin
 ### Préservation (numérique)
 
 ### RDDA (Règles pour la description des documents d'archives)
+Iloé Françon
 
 ### RDF (Resource Description Framework)
 
@@ -128,6 +130,7 @@ Isabelle Algrin
 ### VRA Core 4.0
 
 ### Vocabulaire contrôlé
+Vocabulaire contrôlé
 
 ### Web sémantique
 Jean-Michel Godbout
