@@ -130,7 +130,7 @@ Isabelle Algrin
 ### VRA Core 4.0
 
 ### Vocabulaire contrôlé
-Vocabulaire contrôlé
+Iloé Françon
 
 ### Web sémantique
 Jean-Michel Godbout
